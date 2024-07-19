@@ -1,3 +1,39 @@
+# Homework
+## 1.gpt-4v
+#### Link
+https://github.com/zoey-zhuo/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+#### 完成情况
+手写图片
+![](./openai_api/images/gpt-4v.jpg)
+分析并输出成Markdown格式：
+![](./snapshots/homework1.png)
+
+## 2.openai-translation
+#### Link
+https://github.com/zoey-zhuo/openai-quickstart/blob/main/openai-translator
+#### 完成情况
+```shell
+python ai_translator\main.py --target_language=俄语
+```
+![](./snapshots/homework2.png)
+
+## 3.router-chain
+#### Link
+https://github.com/zoey-zhuo/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+#### 完成情况
+![](./snapshots/homework3.png)
+
+## 4.chatbot
+#### Link
+https://github.com/zoey-zhuo/openai-quickstart/tree/main/langchain/clothes_sales_chatbot
+#### 完成情况
+支持参数输入enable_chat
+```shell
+python sales_chatbot.py --enable_chat=True
+```
+![](./snapshots/homework4a.png)
+![](./snapshots/homework4b.png)
+
 # OpenAI 快速入门
 
 <p align="center">
